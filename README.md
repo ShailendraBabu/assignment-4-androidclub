@@ -1,6 +1,7 @@
 # assignment-4-androidclub
 
 React Redux
+
 This is a simple app using redux.
 First install all the required dependencies.
 Create src folder and now Run the app 
